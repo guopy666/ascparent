@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/guopy666/scconfig/
+          username: 1315977102@qq.com
+          password: 931011gpy
+server:
+  port: 8888
