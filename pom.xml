@@ -14,6 +14,15 @@
         <module>asc-commons</module>
         <module>asc-eureka-server</module>
         <module>asc-eureka-client</module>
+        <module>asc-config-server</module>
+        <module>asc-eureka-consumer-ribbon</module>
+        <module>asc-eureka-consumer-feign</module>
+        <module>asc-eureka-feign-uploadfile</module>
+        <module>asc-eureka-consumer</module>
     </modules>
+
+    <dependencies>
+
+    </dependencies>
 
 </project>
