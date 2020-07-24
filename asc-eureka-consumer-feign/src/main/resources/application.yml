@@ -1,9 +1,9 @@
 spring:
   application:
-    name: eureka-consumer-ribbon
+    name: eureka-consumer-feign
 
 server:
-  port: 8083
+  port: 8084
 
 eureka:
   client:
